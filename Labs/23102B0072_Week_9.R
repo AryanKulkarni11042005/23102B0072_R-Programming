@@ -6,7 +6,7 @@ print(2*pi)
 print("radians")
 
 #cat
-cat("The zero occurs at", 2*pi, "radians.", "\n")
+cat("The zero occurs at", 2*pi, "radians.", "\n" )
 
 #cat with sep
 x = 1:10
